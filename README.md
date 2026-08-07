@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=180&section=header&text=Kacper%20Kubsik&fontSize=40&animation=fadeIn&fontColor=ffffff&desc=IT%20Support%20Specialist%20|%20SysAdmin%20|%20Web%20Dev&descSize=16&descAlignY=75&v=10" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=180&section=header&text=Kacper%20Kubsik&fontSize=40&animation=fadeIn&fontColor=7aa2f7&desc=Specjalista%20IT%20Support%20|%20SysAdmin%20|%20Web%20Dev&descSize=16&descAlignY=75&stroke=7dcfff&strokeWidth=1" width="100%" />
 </div>
 
 <!-- SOCJAL / KONTAKT -->
