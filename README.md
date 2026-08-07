@@ -6,7 +6,7 @@
 <!-- SOCJAL / KONTAKT -->
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kacper-kubsik/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0xOSAzaC0xNEExIDEgMCAwIDAgNCA0djE2YTEgMSAwIDAgMCAxIDFmMDRhMSAxIDAgMCAwIDEtMVY0YTEgMSAwIDAgMC0xLTF6TTcuNDY5IDIwLjQ1Mkg0LjM3NVY5aDMuMDk0djExLjQ1MnptLTEuNTQ3LTYuOGExLjc2OCAxLjc2OCAwIDEgMSAxLjc2Ny0xLjc2OCAxLjc2OCAxLjc2OCAwIDAgMS0xLjc2NyAxLjc2OHptMTUuMDc4IDYuOGgtMy4wOTR2LTUuNjA0YzAtMy4zNjgtNC0zLjExMy00IDB2NS42MDRoLTMuMDk0VjloMy4wOTR2MS43NjdjMS40NDEtMi42NjUgOC4wMTUtMi44NjYgOCAwdi42ODVoLS4wMDF2Ni4wMDR6Ii8%2BPC9zdmc%2B&logoColor=white)](https://www.linkedin.com/in/kacper-kubsik/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kkubsik177@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kacpero177)
 
