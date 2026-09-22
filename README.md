@@ -21,7 +21,7 @@
 ### O mnie
 
 - **Status:** Absolwent Technikum Informatycznego aktywnie poszukujący możliwości rozwoju na stanowisku **Młodszy Specjalista ds. IT / Wsparcie Techniczne / Helpdesk**.
-- **Certyfikaty:** `Google IT Support Professional`, `Jira Service Management with AI Fundamentals - Atlassian`, `Fortinet Certified – NSE 3: Cybersecurity`.
+- **Certyfikaty:** `Google IT Support Professional`, `Jira Service Management with AI Fundamentals - Atlassian`, <code>Fortinet&nbsp;Certified&nbsp;–&nbsp;NSE&nbsp;3:&nbsp;Cybersecurity</code>.
 - **Kwalifikacje:** `INF.02` (administracja sieciami i systemami) & `INF.03` (tworzenie aplikacji i baz danych).
 - **Lokalizacja:** Konin / Poznań / Zdalnie.
 - **Języki:** Angielski (B2), Niemiecki (B1), Polski (ojczysty).
